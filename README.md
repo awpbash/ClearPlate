@@ -4,6 +4,9 @@
 
 Making a computer vision model to detect, identify and estimate the weight of food waste or unfinished food from plates in RC4 dining hall
 
+![Demo](https://github.com/user-attachments/assets/a6cb09fb-56de-4d2c-8c05-35266a2554b2)
+
+
 # Food Waste Detection & Estimation
 
 ## The Problem: Inefficient Food Waste Measurement
